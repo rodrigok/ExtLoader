@@ -1,0 +1,1 @@
+Para testar o Ext.Loader fácilmente basta clonar o repositório para a pasta de examplos do ExtJS 3.X ou baixar o source, criar uma pasta chamada ExtLoader dentro da pasta examples do Ext 3.X e colocar o arquivo Ext.Loader.js e a pasta example contidos no ZIP/TAR dentro desta.
