@@ -3,7 +3,7 @@ arrumar erros
 prop mostrar erros?
 */
 Ext.Loader = function(conf){
-	this.version = '0.0.5';
+	this.version = '0.0.6';
 	this.conf = {
 		method      : 'POST', //[POST,GET]
 		proxy       : 'SCRIPTTAG', //[AJAX,SCRIPTTAG]
